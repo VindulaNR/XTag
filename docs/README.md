@@ -240,7 +240,7 @@ More detail will be on testing report
 Develop using Futter 1.17 
 
 * ### Home page
-<img src="https://github.com/cepdnaclk/e16-3yp-smart-infared-shooting-sport/blob/main/docs/images/UI_HomePage1.png" width="180" height="340"/>
+<img src="https://github.com/VindulaNR/XTag/blob/main/docs/images/UI_HomePage1.png" width="180" height="340"/>
 
 * ### User Profile
 ![](docs/images/profile.PNG)

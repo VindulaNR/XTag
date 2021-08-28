@@ -239,27 +239,18 @@ More detail will be on testing report
 * ### User Interface - Mobile Application
 Develop using Futter 1.17 
 
-* ### Home page
-<img src="https://github.com/VindulaNR/XTag/blob/main/docs/images/UI_HomePage1.png" width="180" height="340"/>
 
 * ### User Profile
 	![](images/profile.PNG)
 
-### SignIn and SignUp pages
-<p float='left'>
-	<img src="https://github.com/cepdnaclk/e16-3yp-smart-infared-shooting-sport/blob/main/docs/images/UI_SigninPage.png" width="180" height="340"/>
-	<width="100"/>
-	<img src="https://github.com/cepdnaclk/e16-3yp-smart-infared-shooting-sport/blob/main/docs/images/UI_SignupPage.png" width="180" height="340"/> 
-</p>
 
-### Connect gun and go to battle
-![](images/connct_gn_and_go_to_ply.PNG)
+* ### Connect gun and go to battle
+	![](images/connct_gn_and_go_to_ply.PNG)
 
 
-### Create or join a battle
-<p float='left'>
-	<img src="https://github.com/cepdnaclk/e16-3yp-smart-infared-shooting-sport/blob/main/docs/images/crt_or_join.PNG" width="540" height="340"/>
-</p>
+* ### Create or join a battle
+	![](images/crt_or_join.PNG)
+
 
 ## TESTING
 * ### Xtag application testing

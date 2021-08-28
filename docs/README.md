@@ -272,7 +272,8 @@ Develop using Futter 1.17
 	4. Physical test
 		* Fire range
 		* fire accuracy
-* HArdware testing sumarry : https://docs.google.com/document/d/1yRsRNFsx3cfH2Z9USqZvHvry2KBjpZQ3aWNl-_fgJvw/edit?usp=sharing
+* HArdware testing sumarry 
+[go to Report](https://docs.google.com/document/d/1yRsRNFsx3cfH2Z9USqZvHvry2KBjpZQ3aWNl-_fgJvw/edit?usp=sharing)
 * HArdware testing report : https://docs.google.com/document/d/1XJSeqUBuJQFIUvLsx5cCLyxi5nqX5FbRWItxmr5zCmQ/edit?usp=sharing
  
 

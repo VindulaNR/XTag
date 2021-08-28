@@ -253,10 +253,8 @@ Develop using Futter 1.17
 </p>
 
 ### Connect gun and go to battle
-<p float='left'>
-	![](images/connct_gn_and_go_to_ply.PNG)
-	<img src="https://github.com/cepdnaclk/e16-3yp-smart-infared-shooting-sport/blob/main/docs/images/connct_gn_and_go_to_ply.PNG" width="540" height="340"/>
-</p>
+![](images/connct_gn_and_go_to_ply.PNG)
+
 
 ### Create or join a battle
 <p float='left'>

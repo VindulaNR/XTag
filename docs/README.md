@@ -13,14 +13,11 @@
   	* Prof. Roshan Ragel
    	* Dr. Upul Jayasinghe
    	
-* Related links
-   	* [Faculty website](http://eng.pdn.ac.lk/)
-   	* [Department website](http://www.ce.pdn.ac.lk/)
    
    ### IMAGE
    ![](images/gun2.jpg)
-   
-    ## TABLE OF CONTENT
+ 
+ ## TABLE OF CONTENT
    
 1. >[OVERVIEW](https://github.com/cepdnaclk/e16-3yp-smart-infared-shooting-sport/blob/master/docs#overview)
 2. >[GOALS](https://github.com/cepdnaclk/e16-3yp-smart-infared-shooting-sport/blob/master/docs#goals)

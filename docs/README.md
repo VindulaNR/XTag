@@ -1,4 +1,4 @@
-# e16-3yp-smart-infared-shooting-sport
+# XTAG smart-infared-shooting-sport
 
 ### Team
 

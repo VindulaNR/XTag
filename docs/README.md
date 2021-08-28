@@ -259,8 +259,8 @@ Develop using Futter 1.17
     3. Data Mapping testing
     4. Stored Procedures(Black box testing)
     5. Device compatibility testing
-* software testing sumarry : https://docs.google.com/document/d/15QQ1ZPAIXyWhq7m--7BOh9n0jbu_8oZKydKhLDy0Gqo/edit?usp=sharing
-* software testing report : https://docs.google.com/document/d/1bhaTQPnoYpXo6yQ9MJRpFDIS963kJpqcUUipNbIv-IE/edit?usp=sharing
+* software testing report 
+[go to Report](https://docs.google.com/document/d/1bhaTQPnoYpXo6yQ9MJRpFDIS963kJpqcUUipNbIv-IE/edit?usp=sharing)
  
 * ### Embedded system testing
 
@@ -274,7 +274,8 @@ Develop using Futter 1.17
 		* fire accuracy
 * HArdware testing sumarry 
 [go to Report](https://docs.google.com/document/d/1yRsRNFsx3cfH2Z9USqZvHvry2KBjpZQ3aWNl-_fgJvw/edit?usp=sharing)
-* HArdware testing report : https://docs.google.com/document/d/1XJSeqUBuJQFIUvLsx5cCLyxi5nqX5FbRWItxmr5zCmQ/edit?usp=sharing
+* HArdware testing report 
+[go to Report](https://docs.google.com/document/d/1XJSeqUBuJQFIUvLsx5cCLyxi5nqX5FbRWItxmr5zCmQ/edit?usp=sharing)
  
 
 
